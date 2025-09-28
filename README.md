@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently a student
+I’m Aashi Dongre, a passionate and dedicated MCA student with hands-on experience in Android development, full-stack web projects, and agritech innovations. I thrive in dynamic environments where I can apply my technical knowledge and adaptability to real-world challenges. With internship experiences at NullClass and Viraansh Agritech, I’ve had the opportunity to work across diverse domains — from building smart apps to supporting agritech through technology.
+
+I take pride in being a quick learner, a strong team player, and someone who loves solving problems through code. My key skills include Java, Python, HTML/CSS/JavaScript, and frameworks like Spring Boot and Django. I’ve also completed projects like a Google Assistant clone with CameraX & ML Kit.
+
+Always eager to grow and explore new technologies, I’m open to opportunities in software development, mobile app development, and tech-driven research roles.
 
 
 ## 🌐 Socials:
